@@ -117,7 +117,7 @@
 
     .navbar .menu-items{
         padding-top: 100px;
-        background: #fff;
+        background: #000;
         height: 100vh;
         max-width: 300px;
         transform: translate(-150%);
